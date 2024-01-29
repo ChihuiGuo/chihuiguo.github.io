@@ -47,8 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
 <!--% - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2012.06 - 2024.04 (now)*, Ph.D. 
-- *2015.09 - 2019.06*, B.A and M.S. 
+- *2022.06 - 2024.01 (now)*, Ph.D. 
+- *2015.09 - 20122.06*, B.A and M.S. 
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
