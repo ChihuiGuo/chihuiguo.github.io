@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              :  "he/him/his"
   location         : "Xi'an, China"
-  employer: <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>
+  employer         : <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>
 
   # employer: "[Xi'an Jiaotong University](http://en.xjtu.edu.cn/)"
   # employer         : "http://en.xjtu.edu.cn/" #"Xi'an Jiaotong University"
