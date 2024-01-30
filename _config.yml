@@ -25,7 +25,8 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              :  "he/him/his"
   location         : "Xi'an, China"
-  employer         : <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>
+  employer         : "Xi'an Jiaotong University"
+  employer_link    : "http://en.xjtu.edu.cn/"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            :  "guochihui@stu.xjtu.edu.cn"
