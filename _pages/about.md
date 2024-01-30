@@ -56,3 +56,6 @@ My research interest includes xxx. I have published more than 100 papers at the 
 
 <!--# 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+
+# 📄 CV
+To learn more about me,please see my academic(outdated)[**CV**]( )
