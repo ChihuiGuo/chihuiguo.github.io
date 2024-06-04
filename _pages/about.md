@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 <!--% - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 #  Educations
-- *2022.06 - 2024.01 (now)*, Ph.D. 
+- *2022.06 - 2024.06 (now)*, Ph.D. 
 - *2015.09 - 20122.06*, B.A and M.S. 
 
 <!--# 💬 Invited Talks
