@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "C. H. Guo"
-description              : "I am a PhD candidate. "
+description              : "I am a Ph.D. candidate. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "C. H. GUO"
+  name             : "Chihui Guo"
   avatar           : "images/android-chrome-512x512.png"
   bio              :  "he/him/his"
   location         : "Xi'an, China"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            :  "guochihui@stu.xjtu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chihui-Guo"
   uri              :
   bitbucket        :
   codepen          :
